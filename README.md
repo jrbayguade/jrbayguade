@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jesus!
 
-I'm a programmer at heart, entrepreneur by experience, and currently General Manager at [Product Madness](https://www.productmadness.com/), where I lead a large international team in the mobile gaming industry. Years ago, I founded and escalated several tech companies, and sold a game development company one, and now I’m diving deep into the world of data science.
+I'm a programmer at heart, entrepreneur by experience, and currently General Manager at [Product Madness](https://www.productmadness.com/), where I lead a large international team in the mobile gaming industry. Years ago, I founded and escalated several tech companies, and sold a game development one, and now I’m diving deep into the world of data science.
 
 🎓 I'm currently studying a Bachelor's Degree in Data Science at **Universidad Internacional de La Rioja (UNIR)**, which keeps me *very* busy — and also very inspired. I'm especially interested in machine learning, AI, and predictive modeling to solve real-world problems.
 
