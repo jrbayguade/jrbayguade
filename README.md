@@ -13,6 +13,7 @@ This GitHub is where I:
 - Occasionally participate in Kaggle competitions or other public data challenges.
 
 ## 🚀 Interests
+- Statistics, Linear Algebra (and yeah why not, math in general)
 - Artificial Intelligence
 - Machine Learning
 - Predictive Analytics
