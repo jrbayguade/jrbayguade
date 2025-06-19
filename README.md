@@ -19,6 +19,7 @@ This GitHub is where I:
 - Gaming & User Behavior Data
 - Real-time Decision Systems
 - Python, SQL, and data tooling
+- Learning in general, and challenging myself
 
 ## 🔗 Connect with me
 
