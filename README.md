@@ -17,8 +17,7 @@ This GitHub is where I:
 - Artificial Intelligence
 - Machine Learning
 - Predictive Analytics
-- Gaming & User Behavior Data
-- Real-time Decision Systems
+- Gaming & user behavior data
 - Python, SQL, and data tooling
 - Learning in general, and challenging myself
 
