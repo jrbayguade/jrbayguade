@@ -7,7 +7,7 @@ I'm a programmer at heart, entrepreneur by experience, and currently General Man
 ## 🧠 What you’ll find here
 
 This GitHub is where I:
-- Share personal data projects and experiments with AI and predictive models.
+- Share personal data projects and experiments with AI and (sometimes) predictive models.
 - Upload coursework and exercises related to my Data Science studies.
 - Explore new technologies and tools that spark my curiosity.
 - Occasionally participate in Kaggle competitions or other public data challenges.
