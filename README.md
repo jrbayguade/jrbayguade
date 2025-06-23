@@ -14,12 +14,10 @@ This GitHub is where I:
 
 ## 🚀 Interests
 - Statistics, Linear Algebra (and yeah why not, math in general)
-- Artificial Intelligence
-- Machine Learning
-- Predictive Analytics
+- Machine learning and predictive analytics
 - Gaming & user behavior data
 - Python, SQL, and data tooling
-- Learning in general, and challenging myself
+- Anything AI
 
 ## 🔗 Connect with me
 
