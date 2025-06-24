@@ -19,8 +19,10 @@ This GitHub is where I:
 - Python, SQL, and data tooling
 - Anything AI
 
-## 🔗 Connect with me
+## 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/jboschayguade/)  
+[![DEV.to](https://img.shields.io/badge/DEV.to-black?logo=dev.to&style=flat)](https://dev.to/jrbayguade)  
+[![X](https://img.shields.io/badge/X-black?logo=x&style=flat)](https://x.com/jesus_bosch_)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/jboschayguade/)
 
 Thanks for passing by! 👋
