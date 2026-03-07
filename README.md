@@ -11,6 +11,7 @@ This GitHub is where I:
 - Upload coursework and exercises related to my Data Science studies.
 - Explore new technologies and tools that spark my curiosity.
 - Occasionally participate in Kaggle competitions or other public data challenges.
+- I also keep secret stuff here, a lot of AI-Agents stuff where I test different microservices, I will post about that at some point soon (too busy now sorry!)
 
 ## 🚀 Interests
 - Maths
