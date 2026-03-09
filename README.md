@@ -14,7 +14,7 @@ This GitHub is where I:
 - I also keep secret stuff here, a lot of AI-Agents stuff where I test different microservices, I will post about that at some point soon (too busy now sorry!)
 
 ## 🚀 Interests
-- Maths
+- Statistics, and maths in general
 - Machine learning and predictive analytics
 - Games
 - Python, SQL, and data tooling
