@@ -1,24 +1,9 @@
 # 👋 Hi there, I'm zinkbuilder!
 
-I'm a programmer at heart, entrepreneur by experience, and currently General Manager at [Product Madness](https://www.productmadness.com/), where I lead a large international team in the mobile gaming industry. Years ago, I founded and escalated several tech companies, and sold a game development one, and now I’m diving deep into the world of data science.
+Programmer at heart, entrepreneur by experience, and Data Scientist under construction.
+Founder and operator with a track record in tech and gaming. Now focused on data science, machine learning and AI‑driven tools.
 
-🎓 I'm currently studying a Bachelor's Degree in Data Science at **Universidad Internacional de La Rioja (UNIR)**, which keeps me *very* busy (and also very inspired). I'm especially interested in machine learning, AI agents, and predictive modeling to solve real-world problems.
-
-## 🧠 What you’ll find here
-
-This GitHub is where I:
-- Share personal data projects and experiments with AI and predictive models.
-- Upload coursework and exercises related to my Data Science studies.
-- Explore new technologies and tools that spark my curiosity.
-- Occasionally participate in Kaggle competitions or other public data challenges.
-- I also keep secret stuff here, a lot of AI-Agents stuff where I test different microservices, I will post about that at some point soon (too busy now sorry!)
-
-## 🚀 Interests
-- Statistics, and maths in general
-- Machine learning and predictive analytics
-- Games
-- Python, SQL, and data tooling
-- Anything AI (currently very excited about the potential of AI agents)
+Here I share personal data projects, coursework and experiments with predictive models and AI workflows. Passionate about Python, statistics and practical applications of machine learning.
 
 
 Thanks for passing by! 👋
