@@ -20,9 +20,5 @@ This GitHub is where I:
 - Python, SQL, and data tooling
 - Anything AI (currently very excited about the potential of AI agents)
 
-## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/jboschayguade/)  
-[![DEV.to](https://img.shields.io/badge/DEV.to-black?logo=dev.to&style=flat)](https://dev.to/jrbayguade)  
-
 
 Thanks for passing by! 👋
