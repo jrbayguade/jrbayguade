@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jesus!
+# 👋 Hi there, I'm zinkbuilder!
 
 I'm a programmer at heart, entrepreneur by experience, and currently General Manager at [Product Madness](https://www.productmadness.com/), where I lead a large international team in the mobile gaming industry. Years ago, I founded and escalated several tech companies, and sold a game development one, and now I’m diving deep into the world of data science.
 
