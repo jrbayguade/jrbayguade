@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm zinkbuilder!
+# 👋 Hi there, I'm J. Bosch!
 
 Programmer at heart, entrepreneur by experience, and Data Scientist under construction.
 Founder and operator with a track record in tech and gaming. Now focused on data science, machine learning and AI‑driven tools.
