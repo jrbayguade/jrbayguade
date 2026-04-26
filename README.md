@@ -13,10 +13,12 @@ This profile is where I keep open source tools and skills I build, mostly to scr
 
 ## Things I work with
 
-**Languages:** TypeScript, JavaScript, Python, C#, SQL
-**Frontend:** Chrome Extensions API, React, HTML/CSS, Webpack
-**Backend:** Node.js, .NET, Supabase, PostgreSQL, REST APIs, OAuth 2.0
-**AI tooling:** Claude API, OpenAI API, prompt engineering, Claude Code skills
-**Data:** Looker Studio, Pandas, Jupyter
+- **Languages:** TypeScript, JavaScript, Python, C#, SQL
+- **Frontend:** Chrome Extensions API (Manifest V3), React, HTML/CSS, Tailwind, Webpack
+- **Backend:** Node.js, .NET, Cloudflare Workers, Supabase, PostgreSQL, REST APIs, OAuth 2.0
+- **AI/ML:** Claude API, OpenAI API, Anthropic SDK, prompt engineering, Claude Code skills, Pandas, Jupyter
+- **Infrastructure:** Cloudflare (Workers, D1, R2), GitHub Actions, Lemon Squeezy
+- **Data & analytics:** Looker Studio, Google Analytics, Ahrefs, SQL pipelines
+- **Platforms:** Google Workspace Marketplace, Chrome Web Store, Product Hunt
 
 📫 [LinkedIn](https://www.linkedin.com/in/jboschayguade/)
