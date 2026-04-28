@@ -9,6 +9,7 @@ This profile is where I keep open source tools and skills I build, mostly to scr
 ## Projects
 
 - **[chrome-store-screenshots](https://github.com/jrbayguade/chrome-store-screenshots)** AI skill for generating Chrome Web Store marketing screenshots. Works with Claude Code, Cursor and 40+ agents.
+- **[zapier-connector-skill](https://github.com/jrbayguade/zapier-connector-skill)** A Claude Code skill that generates production-ready Zapier integrations for any SaaS. Webhook triggers, REST actions, security tests, and Zapier app definition, all from a single config file.
 - **[Mail2Follow](https://zinkforge.com)** Gmail extension that tracks sent emails and tells you when to follow up. AI-powered classification and draft generation.
 
 ## Things I work with
