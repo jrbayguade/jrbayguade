@@ -1,6 +1,6 @@
 # Hi, I'm Jesús Bosch
 
-Software engineer turned founder, turned operator. Writing code since 2003.
+Software engineer turned founder, turned operator. Writing code since... I was 14!
 
 Founded and exited Starloop Studios (game co-development, PE exit). Built Game Troopers (50M+ downloads, exclusive Microsoft deals). Now building solo with AI under [Zinkforge](https://zinkforge.com).
 
