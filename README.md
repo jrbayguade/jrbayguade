@@ -1,16 +1,12 @@
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│                  Hi! I'm Jesus Bosch                 │
-│                                                      │
-│         Engineering, AI and digital products         │
-│                                                      │
-│              → Software engineering                  │
-│              → AI-powered products                   │
-│              → Team leadership                       │
-│              → Mobile & web platforms                │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+╭──────────────────────────────────────╮
+│                                      │
+│         Hi! I'm Jesus Bosch          │
+│                                      │
+│   Engineering, AI and digital        │
+│   products                           │
+│                                      │
+╰──────────────────────────────────────╯
 ```
 
 ## Projects
