@@ -1,11 +1,17 @@
-# Hi, I'm Jesús Bosch
-
-Software engineer turned founder, turned operator. Writing code since... I was 14!
-
-Founded and exited Starloop Studios (game co-development, PE exit). Built Game Troopers (50M+ downloads, exclusive Microsoft deals), and Starshot Software. 
-
-Here I run my experiments to learn, code for fun and sharing. 
-
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│                  Hi! I'm Jesus Bosch                 │
+│                                                      │
+│         Engineering, AI and digital products         │
+│                                                      │
+│              → Software engineering                  │
+│              → AI-powered products                   │
+│              → Team leadership                       │
+│              → Mobile & web platforms                │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
 ## Projects
 
