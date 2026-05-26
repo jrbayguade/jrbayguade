@@ -16,6 +16,8 @@
 - **[Mail2Follow](https://zinkforge.com/mail2follow/)** Gmail extension that tracks sent emails and tells you when to follow up. AI-powered classification and draft generation.
 - **[JobWarp](https://jobwarp.app/)**  Warp any job posting into a custom cover letter, adapted CV, and fit score. Then track it all in one funnel.
 
+
+
 ## Things I work with
 
 - **Languages:** TypeScript, JavaScript, Python, C#, SQL
@@ -29,3 +31,6 @@
 📫 [LinkedIn](https://www.linkedin.com/in/jboschayguade/)
 
 🐥 [X](https://x.com/Jbosch_)
+
+
+ <img src="gangsta-rain.gif" />
