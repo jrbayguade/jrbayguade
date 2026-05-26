@@ -24,7 +24,7 @@
 - **AI/ML:** Claude API, OpenAI API, Anthropic SDK, prompt engineering, Claude Code skills, Pandas, Jupyter
 - **Infrastructure:** Cloudflare (Workers, D1, R2), GitHub Actions, Lemon Squeezy
 - **Data & analytics:** Looker Studio, Google Analytics, Ahrefs, SQL pipelines
-- **Platforms:** Google Workspace Marketplace, Chrome Web Store, Product Hunt
+- **Platforms:** Google Workspace Marketplace, Chrome Web Store, Product Hunt, Microsoft Store, Mozilla Add-ons
 
 📫 [LinkedIn](https://www.linkedin.com/in/jboschayguade/)
 
