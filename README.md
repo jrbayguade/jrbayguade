@@ -21,13 +21,13 @@
 
 ## 🧠 Things I work with
 
-- **Languages:** TypeScript, JavaScript, Python, C#, SQL
-- **Frontend:** Chrome Extensions API (Manifest V3), React, HTML/CSS, Tailwind, Webpack
+- **Languages:** TypeScript, Python, JavaScript, C#, SQL
+- **Frontend:** React, Tailwind CSS, Webpack, Chrome Extensions (Manifest V3)
 - **Backend:** Node.js, .NET, Cloudflare Workers, Supabase, PostgreSQL, REST APIs, OAuth 2.0
-- **AI/ML:** Claude API, OpenAI API, Anthropic SDK, prompt engineering, Claude Code skills, Pandas, Jupyter
+- **AI Engineering:** Anthropic (Claude API/Code), OpenAI, DeepSeek, MiMo, Openclaw, Prompt Engineering
 - **Infrastructure:** Cloudflare (Workers, D1, R2), GitHub Actions, Lemon Squeezy
-- **Data & analytics:** Looker Studio, Google Analytics, Ahrefs, SQL pipelines
-- **Platforms:** Google Workspace Marketplace, Chrome Web Store, Product Hunt, Microsoft Store, Mozilla Add-ons
+- **Data Science & analytics:** SQL Pipelines, Pandas, Jupyter, ETL/ELT workflows, Statistical Modeling, Looker Studio
+- **Platforms:** Google Workspace, Chrome, Microsoft, and Mozilla Add-on Stores
 
 📫 [LinkedIn](https://www.linkedin.com/in/jboschayguade/)
 
