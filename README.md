@@ -17,7 +17,7 @@
 - **[chrome-store-screenshots](https://github.com/jrbayguade/chrome-store-screenshots)** AI skill for generating Chrome Web Store marketing screenshots. Works with Claude Code, Cursor and 40+ agents.
 - **[zapier-connector-skill](https://github.com/jrbayguade/zapier-connector-skill)** A Claude Code skill that generates production-ready Zapier integrations for any SaaS. Webhook triggers, REST actions, security tests, and Zapier app definition, all from a single config file.
 - **[agent-subvencions](https://github.com/jrbayguade/agent-subvencions)** A daily bot that scraped Spain's BOE and Catalonia's DOGC official gazettes, then used AI to filter and post curated public-grant summaries to [X](https://x.com/AjudesCatalunya). Python, GitHub Actions, Gemini.
-- **[anime-scraper](https://github.com/jrbayguade/anime-scraper)** A weekly bot that scrapes anime & manga news from different sources (web and social networks), summarises and translates them to Catalan with AI, then builds a ready-to-publish post for [r/AnimeCatala](https://www.reddit.com/r/AnimeCatala/). Python, DeepSeek, make.com.
+- **[anime-scraper](https://github.com/jrbayguade/anime-scraper)** A weekly bot that scrapes anime & manga news from different sources (web and social networks), summarises and translates them to Catalan with AI, then publishes it on Reddit: [r/AnimeCatala](https://www.reddit.com/r/AnimeCatala/). Python, DeepSeek API, make.com.
 
 
 
