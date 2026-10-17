@@ -12,7 +12,7 @@
 ## 🪴 Digital Garden
 *My collection of seeds, sprouts, and the occasional withered tomato.*
 🥦 🥕 🌽 🍅 🍆 🥔 🧅 🥬
-- **[AI Weekly](https://jrbayguade.github.io/ai-weekly/)** Too much AI news, so I built a weekly digest of the AI newsletters I read: duplicates merged, hot topics 🔥 and rumors flagged, a heatmap of who shipped what, in Catalan, Spanish and English. Runs locally every Sunday with DeepSeek and publishes to GitHub Pages ([repo](https://github.com/jrbayguade/ai-weekly)).
+- **[AI Weekly](https://jrbayguade.github.io/ai-weekly/)** Too many AI news, so I built a weekly digest of the AI newsletters I read: duplicates merged, hot topics 🔥 and rumors flagged, a heatmap of who shipped what, in Catalan, Spanish and English. Runs locally every Sunday with DeepSeek and publishes to GitHub Pages ([repo](https://github.com/jrbayguade/ai-weekly)).
 - **[Mail2Follow](https://zinkforge.com/mail2follow/)** Gmail extension that tracks sent emails and tells you when to follow up. AI-powered classification and draft generation.
 - **[JobWarp](https://jobwarp.app/)**  Warp any job posting into a custom cover letter, adapted CV, and fit score. Then track it all in one funnel.
 - **[chrome-store-screenshots](https://github.com/jrbayguade/chrome-store-screenshots)** AI skill for generating Chrome Web Store marketing screenshots. Works with Claude Code, Cursor and 40+ agents.
