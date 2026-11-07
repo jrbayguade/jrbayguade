@@ -12,7 +12,7 @@
 ## 🪴 Digital Garden
 *My collection of seeds, sprouts, and the occasional withered tomato.*
 🥦 🥕 🌽 🍅 🍆 🥔 🧅 🥬
-- **[knee-safe-dashboard](https://github.com/jrbayguade/knee-safe-dashboard)** I thought I trained well, so I connected Garmin to an LLM via MCP and asked what was missing. A local dashboard shows my training gaps and daily energy, and the LLM's advice is filtered by code against my knee-injury rules. Python, Flask, DeepSeek.
+- **[hyper-personalized-training](https://github.com/jrbayguade/hyper-personalized-training)** I thought I trained well, so I connected Garmin to an LLM via MCP and asked what was missing. A local dashboard shows my training gaps and daily energy, and the LLM's advice is filtered by code against my own injury constraints. Python, Flask, DeepSeek.
 - **[AI Weekly](https://jrbayguade.github.io/ai-weekly/)** Too many AI news, so I built a weekly digest of the AI newsletters I read: duplicates merged, hot topics 🔥 and rumors flagged, a heatmap of who shipped what, in Catalan, Spanish and English. Runs locally every Sunday with DeepSeek and publishes to GitHub Pages ([repo](https://github.com/jrbayguade/ai-weekly)).
 - **[Mail2Follow](https://zinkforge.com/mail2follow/)** Gmail extension that tracks sent emails and tells you when to follow up. AI-powered classification and draft generation.
 - **[JobWarp](https://jobwarp.app/)**  Warp any job posting into a custom cover letter, adapted CV, and fit score. Then track it all in one funnel.
